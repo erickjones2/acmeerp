@@ -1,3 +1,4 @@
+-- 2/15/2025 chg 1
 CREATE TABLE Customer (
     CustomerID INT PRIMARY KEY AUTO_INCREMENT,
     FirstName VARCHAR(50) NOT NULL,
